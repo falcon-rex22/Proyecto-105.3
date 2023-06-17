@@ -1,0 +1,15 @@
+#Fotito{
+    border: 4px solid;
+    border-color: aqua;
+    width: 120px;
+    height: 120px;
+}
+
+body{
+    background-color: lightgreen;
+}
+
+#camera{
+    width: 350px;
+    height: 300px;
+}
